@@ -1,0 +1,42 @@
+body{
+		padding-top: 100px;
+}
+
+.dropdown-menu{
+	min-width: 213px;
+}
+
+.form-horizontal{
+	padding-left: 40px;
+}
+
+.kanan{
+	margin-bottom : 20px;
+}
+
+th{
+	text-align: center;
+}
+
+h3 .pojok{
+	float: right;
+}
+
+dl{
+	font-size: 16px;
+	text-align: justify;
+}
+
+dt,dd{
+	line-height: 2em;
+}
+
+.dataTables_filter {
+    white-space:nowrap;
+    float: right;
+    padding-right: 57px;
+}
+
+.dataTables_filter label, .dataTables_filter input {
+    display: inline-block;
+}
